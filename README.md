@@ -15,8 +15,7 @@ over the next week (March 25--31, 2017).  Please check back soon.
 ### Lambda Calculus
 
 + [Paul Levy's Lambda Calculus Notes](http://www.cs.bham.ac.uk/~pbl/mgs/lam/)
-+ [Herman Geuvers's Notes on Lambda Calc and Type Systems](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf)   
-  ([notes][], [exercises][], [slides 1][], [slides 2][], [slides 3][], [slides 4][])
++ [Herman Geuvers's Notes on Lambda Calc and Types](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf): [notes][], [exercises][], [slides 1][], [slides 2][], [slides 3][], [slides 4][]
 + [Webapp/tutorial on reducing lambda terms](http://www.nyu.edu/projects/barker/Lambda/)
 
 ### Coq
