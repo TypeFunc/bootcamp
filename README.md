@@ -1,4 +1,4 @@
-## UH-MFC Bootcamp
+# UH-MFC Bootcamp
 
 During the spring break we will gather for a "bootcamp" which will consist of crash courses on 
 the simply typed lambda calculus and type theory.  We will also gain some experience with 
@@ -56,17 +56,13 @@ Below are links to some resources related to the topics we will cover.
 
 ---------------------------------------------
 
-## Other course pages
+## Other resources
 
 + [CMSC 336: Type Systems for Programming Languages](http://ttic.uchicago.edu/~pl/classes/CMSC336-Winter08/)
-
-### Other miscellaneous resources
-
 + [TypeFunc Resource Repository](https://github.com/williamdemeo/TypeFunc)
 + [Notes from Types Summer School](http://www.cse.chalmers.se/research/group/logic/TypesSS05/program.html)
 
 ---------------------------------------------
-
 
 [notes]: http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf 
 [exercises]: http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers_ex.pdf 
