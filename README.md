@@ -28,7 +28,7 @@ Below are links to some resources related to the topics we will cover.
 + [Herman Geuvers's Notes on Lambda Calc and Types](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/geuvers.pdf): [notes][], [exercises][], [slides 1][], [slides 2][], [slides 3][], [slides 4][]  
 + [Webapp/tutorial on reducing lambda terms](http://www.nyu.edu/projects/barker/Lambda/)
 
-### Types Theory
+### Type Theory
 
 + [Andreas Abel's short course](http://www2.tcs.ifi.lmu.de/~abel/eafit2017/index.html)  
 + [Introduction to computational logic](https://www.youtube.com/playlist?list=PL5FJyaC2WsVnmxmaOixx3EWx3888BToGJ) 
