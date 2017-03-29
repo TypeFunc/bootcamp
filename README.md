@@ -31,7 +31,8 @@ Below are links to some resources related to the topics we will cover.
 ### Type Theory
 
 + [Andreas Abel's short course](http://www2.tcs.ifi.lmu.de/~abel/eafit2017/index.html)  
-+ [Introduction to computational logic](https://www.youtube.com/playlist?list=PL5FJyaC2WsVnmxmaOixx3EWx3888BToGJ) 
++ [Thorsten Altenkirch's short course](http://www.cs.nott.ac.uk/~psztxa/ntt/)  
++ [Introduction to computational logic](https://www.youtube.com/playlist?list=PL5FJyaC2WsVnmxmaOixx3EWx3888BToGJ)
   ([downloadable](https://www.ps.uni-saarland.de/courses/cl/videos.php))
 
 ### Agda
